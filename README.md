@@ -21,7 +21,7 @@ cvzone==1.5.6
 ## Installation
 1. Clone the repository:
 ```
-git clone <repository-url>
+git clone https://github.com/Devmbm2/Hand_Gesture-_Game
 ```
 2. Navigate to the project directory:
 ```
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 ## Usage
 1. Run the Streamlit application:
 ```
-streamlit run app.py
+streamlit run main.py
 ```
 2. Upload an image through the web interface.
 3. Start solving the puzzle using hand gestures!
